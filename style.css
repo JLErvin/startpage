@@ -9,7 +9,7 @@ html {
 }
 
 .box {
-    width: 40%;
+    width: 700px;
     right: 50%;
     bottom: 50%;
     transform: translate(50%, 50%);
